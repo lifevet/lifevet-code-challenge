@@ -46,7 +46,7 @@ Além dos requisitos básicos, considere como um **diferencial** a implementaç�
 
 - **Funcionalidade:** O sistema deve realizar as operações CRUD de forma eficiente e correta.
 - **Integridade do Banco de Dados:** As relações entre as entidades devem ser mantidas e respeitadas.
-- **Usabilidade:** A interface do usuário deve ser intuitiva e fácil de usar.
+- **Usabilidade:** A interface do usuário deve ser intuitiva e fácil de usar. Realize validações para garantir a entrada correta de dados (tanto na API quanto no cliente).
 - **Estilo de Codificação:** Siga boas práticas de codificação em PHP e ReactJS.
 - **Segurança:** Proteja o sistema contra vulnerabilidades comuns.
 
@@ -62,5 +62,6 @@ O prazo para a conclusão deste teste técnico é de 10 a 13 dias. Certifique-se
 ## Observações 
 
 Sinta-se livre para utilizar bibliotecas de terceiros tanto na API quanto no cliente. Todavia o uso de Laravel e React é obrigatório. 
+
 
 Boa sorte!
