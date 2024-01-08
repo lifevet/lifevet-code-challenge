@@ -40,6 +40,6 @@ Este projeto é um teste técnico para a vaga de desenvolvedor na Life.Vet, um l
 
 ## Prazo
 
-O prazo para a conclusão deste teste técnico é de 10 a 13. Certifique-se de comunicar qualquer dúvida ou problema durante o processo.
+O prazo para a conclusão deste teste técnico é de 10 a 13 dias. Certifique-se de comunicar qualquer dúvida ou problema durante o processo.
 
 Boa sorte!
