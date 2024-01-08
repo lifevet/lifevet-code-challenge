@@ -25,6 +25,23 @@ Este projeto é um teste técnico para a vaga de desenvolvedor na Life.Vet, um l
 - Página do Exame: Forneça uma forma de editar o resultado (textbox) do exame.
 - Página de Visualização de Resultados: Exiba os resultados dos exames para cada animal.
 
+## Bônus de Diferencial
+
+Além dos requisitos básicos, considere como um **diferencial** a implementação dos seguintes pontos:
+
+### Docker
+
+- Configure o ambiente de desenvolvimento usando Docker. Forneça instruções claras sobre como iniciar o sistema usando contêineres Docker.
+
+### Testes Unitários
+
+- Implemente testes unitários para as principais funcionalidades do sistema. Utilize ferramentas de teste apropriadas para PHP e JS.
+
+### Autenticação
+
+- Adicione um sistema básico de autenticação para os veterinários. Eles devem fazer login para acessar as funcionalidades do sistema.
+- O acesso às rotas dentro da aplicação devem estar protegidas e somente usuários logados devem ter acesso, tanto no cliente quanto na API.
+
 ## Critérios de Avaliação
 
 - **Funcionalidade:** O sistema deve realizar as operações CRUD de forma eficiente e correta.
@@ -41,5 +58,9 @@ Este projeto é um teste técnico para a vaga de desenvolvedor na Life.Vet, um l
 ## Prazo
 
 O prazo para a conclusão deste teste técnico é de 10 a 13 dias. Certifique-se de comunicar qualquer dúvida ou problema durante o processo.
+
+## Observações 
+
+Sinta-se livre para utilizar bibliotecas de terceiros tanto na API quanto no cliente. Todavia o uso de Laravel e React é obrigatório. 
 
 Boa sorte!
