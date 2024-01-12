@@ -4,7 +4,7 @@ INSERT INTO exam_types (id, name) VALUES
 (3, 'Hematologia'),
 (4, 'Imunologia');
 
-INSERT INTO exam (id, NAME, exam_type_id) VALUES
+INSERT INTO exams (id, NAME, exam_type_id) VALUES
 (1, 'Babesia SPP(PCR Real Time)', 1),
 (2, 'Cinomose(PCR Real Time)', 1),
 (3, 'Ehrlichia SPP(PCR Real Time)', 1),

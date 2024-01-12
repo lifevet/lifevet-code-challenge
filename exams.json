@@ -22,7 +22,7 @@
       ]
     },
     {
-      "table": "exam",
+      "table": "exams",
       "rows": [
         {
           "id": 1,
