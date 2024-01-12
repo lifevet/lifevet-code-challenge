@@ -13,7 +13,7 @@ Este projeto é um teste técnico para a vaga de desenvolvedor na Life.Vet, um l
 ### Backend (PHP/Laravel e MySQL)
 
 - Crie um banco de dados MySQL para armazenar informações sobre animais, exames e resultados.
-- Desenvolva uima API em PHP para realizar operações CRUD (Create, Read, Update, Delete) para animais, exames e resultados.
+- Desenvolva uma API em PHP para realizar operações CRUD (Create, Read, Update, Delete) para animais, exames e resultados.
 - As entidades principais são: `Animal`, `Exame` e `Resultado`.
 - Relacione as entidades de forma adequada no banco de dados.
 
