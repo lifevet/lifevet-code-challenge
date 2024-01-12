@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "table": "exam_types",
+      "rows": [
+        {
+          "id": 1,
+          "name": "Biologia Molecular(PCR)"
+        },
+        {
+          "id": 2,
+          "name": "Bioquímica"
+        },
+        {
+          "id": 3,
+          "name": "Hematologia"
+        },
+        {
+          "id": 4,
+          "name": "Imunologia"
+        }
+      ]
+    },
+    {
+      "table": "exam",
+      "rows": [
+        {
+          "id": 1,
+          "NAME": "Babesia SPP(PCR Real Time)",
+          "exam_type_id": 1
+        },
+        {
+          "id": 2,
+          "NAME": "Cinomose(PCR Real Time)",
+          "exam_type_id": 1
+        },
+        {
+          "id": 3,
+          "NAME": "Ehrlichia SPP(PCR Real Time)",
+          "exam_type_id": 1
+        },
+        {
+          "id": 4,
+          "NAME": "Leishmania spp. - PCR Real Time",
+          "exam_type_id": 1
+        },
+        {
+          "id": 5,
+          "NAME": "Ácido Úrico",
+          "exam_type_id": 2
+        },
+        {
+          "id": 6,
+          "NAME": "Albumina",
+          "exam_type_id": 2
+        },
+        {
+          "id": 7,
+          "NAME": "ALT (TGP)",
+          "exam_type_id": 2
+        },
+        {
+          "id": 8,
+          "NAME": "Amilase",
+          "exam_type_id": 2
+        },
+        {
+          "id": 9,
+          "NAME": "Pesquisa Seriada de Hemocitozoários (PSH)",
+          "exam_type_id": 3
+        },
+        {
+          "id": 10,
+          "NAME": "Teste de Coagulação (PT e APTT)",
+          "exam_type_id": 3
+        },
+        {
+          "id": 11,
+          "NAME": "Teste de Compatibilidade Sanguínea",
+          "exam_type_id": 3
+        },
+        {
+          "id": 12,
+          "NAME": "Teste para Anemia Hemolítica Imunomediada",
+          "exam_type_id": 3
+        },
+        {
+          "id": 13,
+          "NAME": "4DX - IgG elisa (Ehrlichia+Borrelia+Dirofilária)",
+          "exam_type_id": 4
+        },
+        {
+          "id": 14,
+          "NAME": "Cinomose + Parvovirose - Elisa IgG Dot Blot",
+          "exam_type_id": 4
+        },
+        {
+          "id": 15,
+          "NAME": "Cinomose + Parvovirose - Elisa IgM Dot Blot",
+          "exam_type_id": 4
+        },
+        {
+          "id": 16,
+          "NAME": "Dirofilariose",
+          "exam_type_id": 4
+        }
+      ]
+    }
+  ]
+}
